@@ -3,7 +3,6 @@
 #! @description: Generated Python operation description.
 #!
 #! @input url: Generated description
-#! @input : Generated description
 #!
 #! @output output_1: Generated description
 #!
